@@ -21,3 +21,23 @@ a {
   color: white;
   padding: 5px;
 }
+
+.sub-header {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(67, 160, 128);
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px;
+}
+svg {
+  fill: white;
+  width: 36px;
+  height: 36px;
+}
+
+.items-to-buy {
+  color: white;
+  font-size: 25px;
+  padding: 5px;
+}
